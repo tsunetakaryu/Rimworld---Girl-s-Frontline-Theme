@@ -3,10 +3,21 @@
   <name>Girl's Frontline Theme</name>
   <author>Ryusa</author>
   <supportedVersions>
-    <li>1.1</li>
+    <li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1713193296</steamWorkshopUrl>
+      <downloadUrl>https://github.com/tsunetakaryu/Rimworld---Girl-s-Frontline-Theme</downloadUrl>
+    </li>
+	</modDependencies>
+	<packageId>Ryusa.GirlsFonrtlineTheme</packageId>
   <description>
-    适用于 RimThemes 的少女前线主题包。
-    Girl's Frontline theme for RimThemes.
-	</description>
+  适用于 RimThemes 的少女前线主题包。
+  Girl's Frontline theme for RimThemes.
+  </description>
+
 </ModMetaData>
