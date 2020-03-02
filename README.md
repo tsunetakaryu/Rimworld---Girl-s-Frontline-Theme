@@ -20,6 +20,18 @@ Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1713193296
 如何使用：
 安装前置模组 RimThemes 并排序在其后面，重启游戏之后右下角会出现边缘世界的游戏图标，点进去选主题。
 
+RimWorld 1.1 版本模组排序：
+
+> Harmony
+>
+> Core
+>
+> RimThemes
+>
+> *< This Mod >*
+
+
+
 碎碎念：
 音效完全自制。
 我觉得每个按钮都带一个图标很蠢，所以没做。
@@ -48,7 +60,20 @@ Current version: 0.7 Beta
 How-to-use: 
 Simply put my mod after RimThemes, once you restart Rimworld, check the bottom right corner. There should be a Rimworld icon. Check and choose theme you like and have fun.
 
+Load order for RimWorld 1.1: 
+
+> Harmony
+>
+> Core
+>
+> RimThemes
+>
+> *< This Mod >*
+
+
+
 Lollygagging: 
+
 1. It's done. All Sound Effects (SE) used in this mod are made by myself. 
 2. It's very stupid to put an icon in every buttons I thought. 
 3. Vanilla font is more readable than any other fancy font candy so I keep it along. (May consider use Girl's Frontline font in later version. )
