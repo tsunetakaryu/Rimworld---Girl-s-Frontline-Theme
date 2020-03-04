@@ -8,10 +8,10 @@
 	</supportedVersions>
 	<modDependencies>
     <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1713193296</steamWorkshopUrl>
-      <downloadUrl>https://github.com/tsunetakaryu/Rimworld---Girl-s-Frontline-Theme</downloadUrl>
+      <packageId>aRandomKiwi.RimThemes</packageId>
+      <displayName>RimThemes</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1668983184&searchtext=RimThemes</steamWorkshopUrl>
+      <downloadUrl></downloadUrl>
     </li>
 	</modDependencies>
 	<packageId>Ryusa.GirlsFonrtlineTheme</packageId>
