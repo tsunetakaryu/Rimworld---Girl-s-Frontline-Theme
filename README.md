@@ -15,12 +15,12 @@ Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1713193296
 ## 简述
 
 本模组为搭配 RimThemes 模组使用的“少女前线”自订主题包。
-版本：0.7 BETA
+版本：1.0
 
 如何使用：
 安装前置模组 RimThemes 并排序在其后面，重启游戏之后右下角会出现边缘世界的游戏图标，点进去选主题。
 
-RimWorld 1.1 版本模组排序：
+RimWorld 1.2 & 1.1 版本模组排序：
 
 > Harmony
 >
@@ -55,12 +55,12 @@ RimWorld 1.1 版本模组排序：
 ## Description
 
 TL;DR: This is a third-party Girl's Frontline (Doll's Frontline) customized theme for RimThemes mod. 
-Current version: 0.7 Beta
+Current version: 1.0
 
 How-to-use: 
 Simply put my mod after RimThemes, once you restart Rimworld, check the bottom right corner. There should be a Rimworld icon. Check and choose theme you like and have fun.
 
-Load order for RimWorld 1.1: 
+Load order for RimWorld 1.2 and 1.1: 
 
 > Harmony
 >
